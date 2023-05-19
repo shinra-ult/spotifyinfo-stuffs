@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#login-btn {
+    display: block;
+    margin: 20px auto;
+}
+
+#genre-chart {
+    width: 400px;
+    height: 400px;
+    margin: 20px auto;
+}
+
+#top-songs {
+    margin-top: 40px;
+}
+
+#songs-list {
+    list-style-type: decimal;
+    margin-left: 20px;
+    padding-left: 0;
+}
